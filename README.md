@@ -1,6 +1,6 @@
 # Dasmoto's Arts & Crafts
 > A simple website for a fictional arts and crafts store.
-> Live demo [here](https://peterkibuchi.github.io/dasmotos).
+> Live demo [_here_](https://peterkibuchi.github.io/dasmotos).
 
 
 ## Table of contents

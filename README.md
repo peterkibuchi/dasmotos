@@ -1,30 +1,36 @@
 # Dasmoto's Arts & Crafts
 > A simple website for a fictional arts and crafts store.
-> Live demo [_here_](https://peterkibuchi.github.io/dasmotos).
+> Live demo [_here_](https://peterkibuchi.github.io/dasmotos/).
 
 
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Status](#status)
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 
-## General info
-- This is a [Challenge Project](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-web-development-fundamentals/modules/fecp-developing-with-css/projects/dasmoto) on Codecademy's [Full-Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path), which I am currently undertaking (at the time of writing).
-- It is meant to solidify my understanding of HTML and CSS fundamentals.
+## General Information
+- I did this project as a means of solidifying my understanding of HTML & CSS fundamentals.
 - It is based of the following [spec document](https://content.codecademy.com/courses/freelance-1/unit-2/dasmotos-arts_redline.jpg).
 
 
-## Technologies
-* HTML and CSS
+## Technologies Used
+* HTML & CSS
 
 
-## To-do list:
-* Improve the visual design
+## Project Status
+Project is: _completed_.
 
-## Status
-Project is _completed_.
+
+## Room for Improvement
+* Improve the visual design.
+
+
+## Inspiration
+- This is a challenge project on Codecademy's [Full Stack Engineer Career Path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path/).
 
 
 ## Contact
